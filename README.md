@@ -15,9 +15,9 @@
   </p>
 
   <p>
-    <img src="https://github-stats-extended.vercel.app/api?username=yuzhiqiang1993&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165" alt="yuzhiqiang's github stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=yuzhiqiang1993&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="165" alt="yuzhiqiang's github stats" />
     &nbsp;&nbsp;
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuzhiqiang1993&layout=compact&langs_count=6&theme=tokyonight" height="165" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuzhiqiang1993&layout=compact&langs_count=6&theme=default" height="165" alt="Top Languages" />
   </p>
 
 </div>
