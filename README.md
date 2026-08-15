@@ -3,12 +3,6 @@
   <h1>Hi there, I'm 喻志强 (yuzhiqiang1993) 👋</h1>
 
   <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=聚焦+Android+架构演进与现代+Kotlin+生态;探索+Rust+与+AI+Agent+提效工具链;践行极简工程主义+%7C+坚持开源与技术沉淀" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p>
     <a href="https://github.com/yuzhiqiang1993" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-yuzhiqiang1993-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
