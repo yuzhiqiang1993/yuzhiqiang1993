@@ -24,45 +24,44 @@
 
 ---
 
-### 关于我 (About Me)
+### 关于我
 
-我是一名 **Android 研发工程师**，专注于移动端架构演进与工程实践，对前端与后端开发略有了解，同时也是一名活跃的 AI 协同编程实践者。
+我是一名专注于移动端与跨端开发的 Android 工程师。
 
-- **Android 核心**：专注 Android 性能优化、组件化架构演进、Kotlin 协程/Flow 响应式编程与移动端工程基建。
-- **全栈与跨端涉猎**：对 Web 前端与后端技术略有了解，具备日常跨端协同与容器封装经验。
-- **AI 辅助探索**：积极拥抱 AI 协同编程，在 AI 辅助下探索 Compose Multiplatform、Rust、Tauri 等跨端技术并落地实战工具。
-- **技术沉淀与分享**：在 CSDN 等社区持续输出深度技术文章，坚信技术分享与交流是共同成长的最好催化剂。
+平时主要使用 Kotlin 和 Java，重点关注 Android 性能调优、组件化架构演进与工程基建。对 Web 前后端技术略有涉猎，遇到混合开发或容器封装需求也能快速上手。
+
+近期积极将 AI 协同编程融入日常工作流，并在 AI 辅助下探索 Compose Multiplatform、Rust 等跨端桌面应用与提效工具。业余时间在 CSDN 记录一些技术踩坑与架构思考。
 
 ---
 
-### 技能与技术栈 (Tech Stack & Ecosystem)
+### 技能与技术栈
 
 | 分类 | 核心技术与工具 |
 | :--- | :--- |
 | **编程语言** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Android 核心生态** | ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=flat-square&logo=google&logoColor=white) ![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![NDK/JNI](https://img.shields.io/badge/Android%20NDK%20%2F%20JNI-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Gradle Kotlin DSL](https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white) |
-| **跨端与桌面应用** | ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black) ![WebContainer](https://img.shields.io/badge/WebContainer-43853D?style=flat-square&logo=node.js&logoColor=white) |
-| **AI 与工程工具** | ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![LLM Coding](https://img.shields.io/badge/LLM%20%26%20Agentic%20Coding-10A37F?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Android 生态** | ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4?style=flat-square&logo=google&logoColor=white) ![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![NDK/JNI](https://img.shields.io/badge/Android%20NDK%20%2F%20JNI-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Gradle Kotlin DSL](https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white) |
+| **跨端与桌面端** | ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black) ![WebContainer](https://img.shields.io/badge/WebContainer-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| **工程与 AI 工具** | ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![LLM Coding](https://img.shields.io/badge/LLM%20%26%20Agentic%20Coding-10A37F?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-### 精选开源项目 (Featured Open Source Projects)
+### 开源项目
 
-#### 核心旗舰项目 (Flagship Projects)
+#### 主要项目
 
-| 项目名称 | 简介与核心亮点 | 主要技术 |
+| 项目 | 说明 | 技术栈 |
 | :--- | :--- | :--- |
-| [**antigravity-studio**](https://github.com/yuzhiqiang1993/antigravity-studio) | 专为 Google Antigravity 打造的全能桌面客户端，支持 BYOK 接入任意第三方大模型、多账号配额管理与长记忆定制 | `Kotlin` · `Compose Multiplatform` · `Desktop` |
-| [**zxing**](https://github.com/yuzhiqiang1993/zxing) | 开箱即用的 Android 二维码/条码极速扫描方案，优化解码算法，支持自定义扫码框样式与相册解析 | `Kotlin` · `Android SDK` · `Camera` |
-| [**bsdiff**](https://github.com/yuzhiqiang1993/bsdiff) | Android 端文件与 APK 增量差分更新方案，基于 bsdiff 差分算法与 JNI 底层集成 | `C/C++` · `NDK/JNI` · `Java` |
+| [**antigravity-studio**](https://github.com/yuzhiqiang1993/antigravity-studio) | Antigravity 桌面客户端，支持接入第三方大模型 (BYOK)、管理多账号配额与自定义长记忆压缩 | `Kotlin` · `Compose Multiplatform` · `Desktop` |
+| [**zxing**](https://github.com/yuzhiqiang1993/zxing) | Android 二维码与条形码扫描库，优化了解码速度，支持自定义取景框、相册图片识别与生成二维码 | `Kotlin` · `Android SDK` · `Camera` |
+| [**bsdiff**](https://github.com/yuzhiqiang1993/bsdiff) | 基于 bsdiff 与 JNI 的 Android 增量更新库，支持 APK 差分包生成与合并 | `C/C++` · `NDK/JNI` · `Java` |
 
-#### Android 现代架构与工具箱 (Architecture & Toolkits)
+#### Android 工具与组件
 
-| 项目名称 | 功能描述 | 主要技术 |
+| 项目 | 说明 | 技术栈 |
 | :--- | :--- | :--- |
-| [**immersion**](https://github.com/yuzhiqiang1993/immersion) | 纯 Kotlin 实现、严格符合 Android 官方最新规范的沉浸式状态栏与导航栏管理库 | `Kotlin` · `WindowInsets` |
-| [**task-weaver**](https://github.com/yuzhiqiang1993/task-weaver) | 基于 Kotlin Flow 打造的声明式异步任务编排与调度神器，清晰掌控任务流转 | `Kotlin` · `Flow` · `Coroutines` |
-| [**float-view**](https://github.com/yuzhiqiang1993/float-view) | Android 全局悬浮视图组件，支持自由拖拽、自动贴边交互与高度自定义 UI | `Kotlin` · `WindowManager` |
-| [**logger**](https://github.com/yuzhiqiang1993/logger) | 小而美、高性能的 Android 日志打印组件，支持格式化输出与线程堆栈展示 | `Kotlin` · `Android` |
-| [**cordova-webcontainer**](https://github.com/yuzhiqiang1993/cordova-webcontainer) | CordovaLib 解耦组件化封装，摆脱 Activity 限制像普通 View 一样灵活嵌入 | `Java` · `Hybrid` · `Cordova` |
-| [**SecurityByAesAndRsa**](https://github.com/yuzhiqiang1993/SecurityByAesAndRsa) | AES 对称加密与 RSA 非对称加密结合的安全数据传输实战方案 | `Java` · `Cryptography` |
+| [**immersion**](https://github.com/yuzhiqiang1993/immersion) | 基于 WindowInsets 实现的 Android 沉浸式状态栏与导航栏适配库 | `Kotlin` · `WindowInsets` |
+| [**task-weaver**](https://github.com/yuzhiqiang1993/task-weaver) | 基于 Kotlin Flow 的异步任务编排库，用于管理复杂任务的依赖与串并行调度 | `Kotlin` · `Flow` · `Coroutines` |
+| [**float-view**](https://github.com/yuzhiqiang1993/float-view) | Android 全局悬浮窗组件，支持拖拽交互、边缘自动吸附与自定义视图 | `Kotlin` · `WindowManager` |
+| [**logger**](https://github.com/yuzhiqiang1993/logger) | 轻量 Android 日志库，支持格式化打印、方法调用栈跟踪与长日志自动分段 | `Kotlin` · `Android` |
+| [**cordova-webcontainer**](https://github.com/yuzhiqiang1993/cordova-webcontainer) | CordovaLib 解耦封装的混合开发容器，可作为普通 View 嵌入任意原生页面 | `Java` · `Hybrid` · `Cordova` |
+| [**SecurityByAesAndRsa**](https://github.com/yuzhiqiang1993/SecurityByAesAndRsa) | 结合 AES 对称加密与 RSA 非对称加密的数据传输加密方案与实战示例 | `Java` · `Cryptography` |
